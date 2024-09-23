@@ -1,0 +1,40 @@
+.pokemon-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    margin: 16px;
+  }
+  
+  .pokemon-image {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .pokemon-name {
+    font-size: 1.5em;
+    margin: 8px 0;
+  }
+  
+  .pokemon-type, .pokemon-height, .pokemon-weight {
+    color: #555;
+  }
+  
+  .team-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  
+  .team-button:hover {
+    background-color: #0056b3;
+  }
+  
+ 
